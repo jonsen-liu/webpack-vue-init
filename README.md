@@ -1,3 +1,5 @@
+### 这是一个纯净的webpack的vue开发/生产环境项目
+
 ### install 下载依赖
 
 npm install / yarn
